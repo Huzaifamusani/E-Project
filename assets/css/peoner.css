@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400;1,500&display=swap');
-  @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;1,100;1,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;1,100;1,200&display=swap');
 
 
 *{
@@ -187,19 +187,19 @@ nav .navbar ul li a.active{
   padding: 0 15rem;
 }
 .home .slide.slide-one{
-  background: linear-gradient(to bottom, rgba(0,0,0,0.8), rgba(0,0,0,0.8), rgb(212, 212, 103)), url(/customer\ pic.jpg);
+  background: linear-gradient(to bottom, rgba(0,0,0,0.8), rgba(0,0,0,0.8), rgb(212, 212, 103)), url('../img/customer\ pic.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 .home .slide.slide-two{
-  background: linear-gradient(to bottom, rgba(0,0,0,0.8), rgba(0,0,0,0.8), rgb(138, 218, 250)), url(/customer\ pic.jpg);
+  background: linear-gradient(to bottom, rgba(0,0,0,0.8), rgba(0,0,0,0.8), rgb(138, 218, 250)), url('../img/customer\ pic.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 .home .slide.slide-three{
-  background: linear-gradient(to bottom, rgba(0,0,0,0.8), rgba(0,0,0,0.8), rgb(255, 187, 98)), url(/customer\ pic.jpg );
+  background: linear-gradient(to bottom, rgba(0,0,0,0.8), rgba(0,0,0,0.8), rgb(255, 187, 98)), url('../img/customer\ pic.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -551,7 +551,7 @@ section{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   gap: 2rem;
-  background: url(/red-concrete-wall-floor-light-260nw-1927383122.webp);
+  background: url('../img/red-concrete-wall-floor-light-260nw-1927383122.webp');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -837,7 +837,7 @@ section h1 span{
 .play {
   width: 100%;
   min-height: 80vh;
-  background: url(/s\ car.jpg);
+  background: url('../img/s\ car.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
